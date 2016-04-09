@@ -2,4 +2,9 @@ __pycache__
 *.pyc
 .cache
 user_keys.py
+bug_response.txt
+get_statuses_response.py
+test_compare.py
+.bug1.py
+bugs
 
